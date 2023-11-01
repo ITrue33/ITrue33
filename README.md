@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=ITrue33
+Automation of QA Automation
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITrue33)](https://github.com/ITrue33)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITrue33)](https://github.com/ITrue33)
+
+Software skills
 <!--
 **ITrue33/ITrue33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
