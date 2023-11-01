@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ITrue33">
-</picture>
+https://github-readme-stats.vercel.app/api?username=ITrue33
 
 <!--
 **ITrue33/ITrue33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
