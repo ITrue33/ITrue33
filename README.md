@@ -16,15 +16,17 @@ Automation of QA Automation
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ITrue33&text_color=fff&hide_progress=true&theme=dark"
+    srcset="/github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITrue33&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ITrue33&text_color=768390&hide_progress=true"
+    srcset="/github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITrue33&text_color=768390&hide_progress=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ITrue33&show_icons=true" />
 </picture> 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITrue33&theme=solarized_dark)
 
 
 ## Hard skills:
@@ -53,4 +55,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Icons for skills: https://github.com/Ileriayo/markdown-badges#table-of-contents 
 -->
