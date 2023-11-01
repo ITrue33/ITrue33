@@ -2,6 +2,10 @@
 
 Automation of QA Automation
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITrue33&theme=default)
+
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ITrue33&show_icons=true&theme=dark"
@@ -13,10 +17,16 @@ Automation of QA Automation
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ITrue33&show_icons=true" />
 </picture> 
+-->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITrue33&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITrue33&theme=default)
+
+
+<!--
 <picture>
   <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITrue33&text_color=fff&hide_progress=true&theme=dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITrue33&theme=default"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -25,7 +35,7 @@ Automation of QA Automation
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ITrue33&show_icons=true" />
 </picture> 
-
+-->
 
 
 ## Hard skills:
