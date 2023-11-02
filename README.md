@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ITrue33&show_icons=true" />
 </picture> 
 
+<div style="vertical-align:middle;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ITrue33&theme=github_dark&show_icons=true"
@@ -42,6 +43,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ITrue33&show_icons=true" />
 </picture> 
+</div>
 </div>
 
 
