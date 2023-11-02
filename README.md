@@ -20,7 +20,7 @@
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITrue33&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITrue33&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITrue33&langs_count=8)
 
 <!--
 <picture>
