@@ -19,7 +19,7 @@
 
 🛠️ **Навыки:**
 - Языки: Java
-- Инструменты тестирования: Selenium WebDriver, Selenium, TestNG, JUnit, RestAssured, Cucumber
+- Инструменты тестирования: Selenium WebDriver, Selenide, TestNG, JUnit, RestAssured, Cucumber
 - CI/CD: Jenkins, GitHub Actions
 - Инструменты отчетности: Allure
 - База данных: MySQL, PostgreSQL
