@@ -114,8 +114,8 @@ Upcoming:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin)
 ![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github)
 
-- Email: [alladin21@mail.ru]  
-- LinkedIn: [https://www.linkedin.com/in/andrew-vilkov]  
+- Email: alladin21@mail.ru  
+- LinkedIn: https://www.linkedin.com/in/andrew-vilkov
 - GitHub: https://github.com/ITrue33  
 
 ---
