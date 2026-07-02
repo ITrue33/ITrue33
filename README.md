@@ -47,7 +47,7 @@ Currently, I am deepening my backend development skills and transitioning fully 
 
 ### **QA Automation Engineer**  
 **Bell Integrator Innovations LLC**  
-📅 May 2023 – Present  
+📅 May 2023 – June 2026  
 
 - Built and maintained automation framework using **Java 17, Gradle, JUnit 5**  
 - Developed **UI tests (Selenide)** and **API tests (Rest Assured)** *(40% API / 60% UI)*  
