@@ -1,123 +1,100 @@
 # Hi, I'm Andrey Vilkov 👋
 
-💻 Junior Java Developer | QA Automation Engineer  
-📍 Saint Petersburg, Russia (Open to relocation)
+💻 **Junior Java Backend Developer**<br>
+📍 Saint Petersburg, Russia · Open to relocation · Open to rare business trips
 
----
+## About me
 
-## 🚀 About Me
+Java engineer with over 3 years of commercial experience developing a Java-based test automation framework for 
+a banking application. 
+Building on Java 17, REST API, DTOs and CI/CD experience to develop backend applications with Java and Spring.
 
-I am a Junior Java Developer with hands-on experience in building and maintaining automated test frameworks using Java.  
-Currently, I am deepening my backend development skills and transitioning fully into Java development.
+I am focused on growing into a Java Backend Developer role and building reliable services with Spring.
 
-- 🔧 2+ years of experience in QA Automation  
-- ☕ Strong focus on Java ecosystem  
-- 📚 Currently studying: *Java Developer (Advanced)* — Yandex Practicum  
-- 🤝 Experienced in cross-functional teamwork (QA + Dev)  
+## Tech stack
 
----
+### Java & backend
 
-## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Testing & quality
 
-### ⚙️ Backend & Testing
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-000000?style=for-the-badge)
 ![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=for-the-badge)
-![RestAssured](https://img.shields.io/badge/Rest--Assured-000000?style=for-the-badge)
-
-### 🧰 Tools & CI/CD
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-FF6C37?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bouncy Castle](https://img.shields.io/badge/Bouncy_Castle-2C3E50?style=for-the-badge)
+
+### Tools
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📐 Practices
-![OOP](https://img.shields.io/badge/OOP-Concept-blue?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Clean--Code-Standards-green?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-Scrum-blueviolet?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## 💼 Experience
+## Experience
 
-### **QA Automation Engineer**  
-**Bell Integrator Innovations LLC**  
-📅 May 2023 – June 2026  
+### Bell Integrator Innovations LLC — Java Automation Engineer
 
-- Built and maintained automation framework using **Java 17, Gradle, JUnit 5**  
-- Developed **UI tests (Selenide)** and **API tests (Rest Assured)** *(40% API / 60% UI)*  
-- Refactored test framework to improve maintainability and readability  
-- Increased test coverage with new automated test cases  
-- Integrated **Allure reporting** and supported CI pipelines in **Jenkins**  
-- Analyzed test runs and collaborated with QA and development teams  
-- Automated reporting and synced results with **Jira**  
+**May 2023 – June 2026** · Banking application project
 
----
-
-## 🏢 Previous Experience
-
-- **Deputy Head of IT Operations** (2019–2022)  
-- **Programmer Technician / Electronics Engineer / Accountant-Programmer**
-
-✔ Developed internal tools for data processing and reporting  
-✔ Supported and maintained enterprise IT systems  
+- Developed Java-based automation for UI and REST API verification.
+- Built API tests with Java and Rest Assured: HTTP requests, DTOs, status codes, headers, and response bodies.
+- Maintained and extended a shared test-framework codebase with reusable DTOs, configurations, and utilities.
+- Refactored UI tests using Page Object and Page Component patterns to reduce coupling to UI details.
+- Integrated Bouncy Castle for certificate handling and removed a manual shell-script preparation step.
+- Configured CI test runs in Jenkins and analyzed results through Jenkins and Allure.
+- Integrated test-run results with Jira for tracking test statuses and defects.
+- Investigated failures, defects, and test-coverage gaps with developers and QA engineers.
 
 ---
+## Education
 
-## 🎓 Education
+> ### Yandex Practicum
+> ***
+> **Java Developer: Extended Program** · Completed September 2026<br>
+> Professional training certificate · **855 hours**
+>
+> The program covered Java Basics, Java Core, Spring Boot, databases, Spring ORM, server operations, Big Data stream-processing applications, cloud-native applications, and a final project.
 
-**B.Sc. Computer Systems and Networks**  
-Murom Institute (2015)
+> ### Murom Institute, a branch of Vladimir State University
+>
+> **B.Sc. in Computer Systems and Networks** · 2015
 
----
+> ### Additional training
+>
+> - Bell Integrator School of Automated Testing · 2023
+> - Network Academy — IBM DB2, WebSphere Application Server, and MQ administration · 2021
 
-## 📈 Currently Learning
+## Additional professional experience
 
-![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System--Design-Basics-lightgrey?style=for-the-badge)
+- Deputy Head of an IT Operations and Information Systems Support Department, Vladimir Region Pension Fund · 2019–2022
+- Electronics Engineer, Murom Maternity Hospital · 2015–2016
+- Programmer Technician, Murom City Hospital No. 3 · 2014–2015
+- Lead Accountant-Programmer, Murom District Education Administration · 2011–2014
 
-- Java Core (advanced topics)  
-- Spring Boot (in progress)  
-- Backend development best practices  
-- System design basics  
+## Languages
 
----
+- Russian — native
+- English — A2
 
-## 📌 Goals
+## Contact
 
-- Transition to a full-time **Java Backend Developer role**  
-- Build production-ready backend services  
-- Contribute to real-world projects  
+- Email: [vilkov_andrew@mail.ru](mailto:vilkov_andrew@mail.ru)
+- Telegram: [@Vilkov_AM](https://t.me/Vilkov_AM)
+- GitHub: [ITrue33](https://github.com/ITrue33)
 
----
-
-## 📂 Projects
-
-> 🚧 Currently updating my GitHub with new Java projects  
-
-Upcoming:
-- REST API (Spring Boot)  
-- Database integration  
-- Test automation frameworks  
-
----
-
-## 📫 Contact Me
-
-![Email](https://img.shields.io/badge/Email-contact-informational?style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github)
-
-- Email: vilkov_andrew@mail.ru  
-- LinkedIn: https://www.linkedin.com/in/andrew-vilkov
-- GitHub: https://github.com/ITrue33  
-
----
-
-⭐️ *Open to opportunities, collaboration, and relocation*
+⭐️ Open to Junior Java Backend Developer opportunities and collaboration.
