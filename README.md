@@ -1,7 +1,7 @@
 # Hi, I'm Andrey Vilkov 👋
 
 💻 **Junior Java Backend Developer**<br>
-📍 Saint Petersburg, Russia · Open to relocation · Open to rare business trips
+📍 Saint Petersburg, Russia · Open to rare business trips
 
 ## About me
 
@@ -13,35 +13,22 @@ I am focused on growing into a Java Backend Developer role and building reliable
 
 ## Tech stack
 
-### Java & backend
+### Commercial experience
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Testing & quality
-
+![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest_Assured-000000?style=for-the-badge)
 ![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=for-the-badge)
-![Allure](https://img.shields.io/badge/Allure-FF6C37?style=for-the-badge)
-![Bouncy Castle](https://img.shields.io/badge/Bouncy_Castle-2C3E50?style=for-the-badge)
-
-### Tools
-
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6C37?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+REST API · DTOs · Jira · Bouncy Castle · Page Object · Page Component · CI/CD
+
+### Backend technologies in training and personal projects
+
+Spring Framework · Spring Boot · Spring Data · Spring Security · Spring Cloud · Hibernate ORM · SQL · Apache Kafka · Avro · Docker · Maven · Bash · IntelliJ IDEA
 
 ---
 
@@ -61,30 +48,29 @@ I am focused on growing into a Java Backend Developer role and building reliable
 - Investigated failures, defects, and test-coverage gaps with developers and QA engineers.
 
 ---
+
 ## Education
 
-> ### Yandex Practicum
-> ***
-> **Java Developer: Extended Program** · Completed September 2026<br>
-> Professional training certificate · **855 hours**
->
-> The program covered Java Basics, Java Core, Spring Boot, databases, Spring ORM, server operations, Big Data stream-processing applications, cloud-native applications, and a final project.
+### Yandex Practicum
 
-> ### Murom Institute, a branch of Vladimir State University
->
-> **B.Sc. in Computer Systems and Networks** · 2015
+**Java Developer: Extended Program** · Completed September 2026<br>
+Certificate of completion · **855 hours** · [View certificate](https://github.com/ITrue33/itrue33.github.io/blob/main/assets/documents/Andrey_Vilkov_Java_Developer_Diploma_2026.pdf)
 
-> ### Additional training
->
-> - Bell Integrator School of Automated Testing · 2023
-> - Network Academy — IBM DB2, WebSphere Application Server, and MQ administration · 2021
+The program covered Java Basics, Java Core, Spring Boot, databases, Spring ORM, server operations, Big Data stream-processing applications, cloud-native applications, and a final project.
 
-## Additional professional experience
+### Murom Institute, a branch of Vladimir State University
 
-- Deputy Head of an IT Operations and Information Systems Support Department, Vladimir Region Pension Fund · 2019–2022
-- Electronics Engineer, Murom Maternity Hospital · 2015–2016
-- Programmer Technician, Murom City Hospital No. 3 · 2014–2015
-- Lead Accountant-Programmer, Murom District Education Administration · 2011–2014
+**B.Sc. in Computer Systems and Networks** · 2015
+
+### Additional training
+
+- Bell Integrator School of Automated Testing · 2023
+- Network Academy — IBM DB2, WebSphere Application Server, and MQ administration · 2021
+
+## Previous IT experience
+
+- IT operations leadership, Vladimir Region Pension Fund · 2019–2022
+- Earlier roles in programming, electronics engineering, and accounting-programming · 2011–2016
 
 ## Languages
 
